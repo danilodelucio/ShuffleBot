@@ -1,4 +1,4 @@
-# shufflebot
+# ShuffleBot
 This is a Bot for Discord to shuffle a bunch of names, where you can: generate 2 teams, select a player, or just a list with these names shuffled.
 
 Link to use it:
